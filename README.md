@@ -1,54 +1,75 @@
-<h1 align="center">Hi 👋, I'm Ayat Saber Mohamed</h1>
-
-<h3 align="center">Software Engineer · React · React Native · Flutter · UI/UX</h3>
-
+<!-- Animated header -->
 <p align="center">
-  I build clean, user-focused web and mobile apps, with a design-first mindset.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ayat%20Saber%20Mohamed&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Web%20%26%20Mobile&descSize=18&descAlignY=58" alt="Ayat Saber Mohamed" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://ayatt12.github.io/Ayat_Portfolio/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=React+%26+React+Native+Developer;Flutter+Developer;UI%2FUX+Fundamentals;Building+clean%2C+user-focused+products" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://ayatt12.github.io/Ayat_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:ayatsaber074@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-SLUG"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.behance.net/ayatsaber"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-  <a href="https://drive.google.com/file/d/1b1a66jlQCd94xEIO8fz3sHD4CD9GWuvr/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+  <a href="https://ayatt12.github.io/Ayat_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=githubpages&logoColor=7AA2F7" alt="Portfolio" /></a>
+  <a href="mailto:ayatsaber074@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-SLUG"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/ayatsaber"><img src="https://img.shields.io/badge/Behance-1a1b26?style=for-the-badge&logo=behance&logoColor=1769FF" alt="Behance" /></a>
+  <a href="https://drive.google.com/file/d/1b1a66jlQCd94xEIO8fz3sHD4CD9GWuvr/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-1a1b26?style=for-the-badge&logo=googledrive&logoColor=4285F4" alt="Resume" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyatT12&label=Profile%20views&color=7aa2f7&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🔭 Currently building projects with **React**, **React Native**, and **Flutter**
-- 🌱 Currently deepening my skills in **React Native** and **Flutter**
-- 💬 Ask me about **React**, **React Native**, **Flutter**, and **UI/UX fundamentals**
-- 📝 I write articles on my [portfolio site](https://ayatt12.github.io/Ayat_Portfolio/)
-- 📫 Reach me at **ayatsaber074@gmail.com**
+I'm a software engineer who builds web and mobile applications with **React**, **React Native**, and **Flutter**, with a strong focus on UI/UX fundamentals.
 
-## 🛠️ Languages & Tools
+| | |
+|---|---|
+| **Currently building** | Projects with React, React Native, and Flutter |
+| **Currently learning** | React Native and Flutter |
+| **Ask me about** | React, React Native, Flutter, UI/UX fundamentals |
+| **Writing** | Articles on my [portfolio site](https://ayatt12.github.io/Ayat_Portfolio/) |
+| **Contact** | ayatsaber074@gmail.com |
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,react,redux,tailwind,bootstrap,dart,flutter,firebase,git,figma,postman,d3" alt="Languages and tools" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
+## Tech Stack
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AyatT12&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyatT12&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,bootstrap&theme=dark" alt="Web" /><br />
+  <img src="https://skillicons.dev/icons?i=react,redux,dart,flutter,firebase&theme=dark" alt="Frameworks" /><br />
+  <img src="https://skillicons.dev/icons?i=git,figma,postman&theme=dark" alt="Tools" />
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyatT12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyatT12&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AyatT12&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=AyatT12&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyatT12&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AyatT12&row=1&margin-w=10" alt="GitHub trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AyatT12&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=12" alt="GitHub trophies" />
   </a>
 </p>
 
 ---
 
-<p align="center">⭐ Thanks for stopping by! Feel free to explore my repos and get in touch.</p>
+<p align="center"><i>Open to collaboration. Feel free to get in touch.</i></p>
+
+<!-- Animated footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
+</p>
