@@ -1,6 +1,6 @@
-<!-- Animated header -->
+<!-- Animated header (file: assets/header.svg in this repo) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Ayat%20Saber%20Mohamed&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Web%20%26%20Mobile&descSize=18&descAlignY=58" alt="Ayat Saber Mohamed" />
+  <img src="assets/header.svg" alt="Ayat Saber Mohamed - Software Engineer" width="100%" />
 </p>
 
 <!-- Typing animation -->
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ayatt12.github.io/Ayat_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=githubpages&logoColor=7AA2F7" alt="Portfolio" /></a>
+  <a href="https://ayatt12.github.io/Ayat_Portfolio/"><img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" alt="Portfolio" /></a>
   <a href="mailto:ayatsaber074@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-SLUG"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="https://www.behance.net/ayatsaber"><img src="https://img.shields.io/badge/Behance-1a1b26?style=for-the-badge&logo=behance&logoColor=1769FF" alt="Behance" /></a>
@@ -28,13 +28,13 @@
 
 I'm a software engineer who builds web and mobile applications with **React**, **React Native**, and **Flutter**, with a strong focus on UI/UX fundamentals.
 
-| | |
-|---|---|
-| **Currently building** | Projects with React, React Native, and Flutter |
-| **Currently learning** | React Native and Flutter |
-| **Ask me about** | React, React Native, Flutter, UI/UX fundamentals |
-| **Writing** | Articles on my [portfolio site](https://ayatt12.github.io/Ayat_Portfolio/) |
-| **Contact** | ayatsaber074@gmail.com |
+<table>
+  <tr><td><b>Currently building</b></td><td>Projects with React, React Native, and Flutter</td></tr>
+  <tr><td><b>Currently learning</b></td><td>React Native and Flutter</td></tr>
+  <tr><td><b>Ask me about</b></td><td>React, React Native, Flutter, UI/UX fundamentals</td></tr>
+  <tr><td><b>Writing</b></td><td>Articles on my <a href="https://ayatt12.github.io/Ayat_Portfolio/">portfolio site</a></td></tr>
+  <tr><td><b>Contact</b></td><td>ayatsaber074@gmail.com</td></tr>
+</table>
 
 ## Tech Stack
 
@@ -44,32 +44,16 @@ I'm a software engineer who builds web and mobile applications with **React**, *
   <img src="https://skillicons.dev/icons?i=git,figma,postman&theme=dark" alt="Tools" />
 </p>
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyatT12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyatT12&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top languages" />
-</p>
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AyatT12&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyatT12&theme=tokyo-night&hide_border=true&area=true&radius=10" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AyatT12&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=12" alt="GitHub trophies" />
-  </a>
+  <img src="https://ghchart.rshah.org/7aa2f7/AyatT12" alt="Contribution calendar" width="90%" />
 </p>
 
 ---
 
 <p align="center"><i>Open to collaboration. Feel free to get in touch.</i></p>
-
-<!-- Animated footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="" />
-</p>
